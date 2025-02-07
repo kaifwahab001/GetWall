@@ -1,4 +1,4 @@
-const String myAccessKey = 'SGN4sITnqRXFnZerdksmUarP_CYrAnSqmSmhjNpRYgU';
+const String myAccessKey = 'Add your unplash key';
  List<String> imageUrls = [
   'https://source.unsplash.com/random/400x300',
   'https://source.unsplash.com/random/400x600',
